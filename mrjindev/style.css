@@ -4,6 +4,7 @@
 
 [data-mj="sidebar"] {
   padding: 0;
+  width: 80px;
 }
 
 [data-mj="sidebar-content"] {
@@ -17,4 +18,29 @@
 
 input.app-ltr-15ushj4 {
   background-color: rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+[data-mj="header"] {
+  box-shadow: none;
+}
+
+[data-mj="register-button"] {
+  background-image: linear-gradient(98.66deg, #8424f8, #6126bc);
+  box-shadow: 4px 4px 12px 0 rgba(255, 255, 255, 0.3) inset, 0 2px 12px 0 rgba(132, 36, 248, 1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 1px;
+}
+
+a.app-ltr-1lzgh63 {
+  background-image: linear-gradient(98.66deg, #232328, #121216);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 1px;
+}
+
+a.app-ltr-1emwpxm {
+  background-image: linear-gradient(98.66deg, #8424f8, #6126bc);
+  box-shadow: 4px 4px 12px 0 rgba(255, 255, 255, 0.3) inset, 0 2px 12px 0 rgba(132, 36, 248, 1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 1px;
 }
