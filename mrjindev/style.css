@@ -1,3 +1,16 @@
 [data-mj="announcement"] {
   background-color: red;
 }
+
+[data-mj="sidebar"] {
+  padding: 0;
+}
+
+[data-mj="sidebar-content"] {
+  border-radius: 0;
+}
+
+.sl-select__control {
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 0.07);
+}
