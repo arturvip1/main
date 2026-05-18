@@ -102,3 +102,8 @@ html body [data-mj="widget-game-slider-slide"] {
   border-radius: 6px !important;
   margin-left: 2px !important;
 }
+
+html body [data-mj="sidebar"].app-ltr-1huuf1k,
+html body [data-mj="sidebar"][class~="app-ltr-1huuf1k"] {
+  padding: 0 !important;
+}
