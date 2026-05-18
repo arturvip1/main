@@ -104,14 +104,15 @@ html body [data-mj="widget-game-slider-slide"] {
 }
 
 html body .sl-select__control,
+html body .sl-select__control.app-ltr-18wxrhy-control,
 html body [class~="sl-select__control"] {
   background-color: rgb(255 255 255 / 6%) !important;
-  border-color: rgb(13 19 42) !important;
+  border-color: #0f1229 !important;
 }
 
 html body [data-mj="lobby-catalog-search"] {
   background-color: rgb(255 255 255 / 6%) !important;
-  border-color: rgb(13 19 42) !important;
+  border-color: #0f1229 !important;
 }
 
 html body [data-mj="register-button"] {
