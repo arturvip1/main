@@ -115,17 +115,15 @@ html body [data-mj="lobby-catalog-search"] {
 }
 
 html body [data-mj="register-button"] {
-  margin: 10px !important;
   padding: 15px 30px !important;
   text-align: center !important;
-  text-transform: uppercase !important;
   transition: 0.5s !important;
   background-size: 200% auto !important;
   color: white !important;
   border-radius: 10px !important;
   display: block !important;
   border: 0 !important;
-  font-weight: 700 !important;
+  font-weight: 500 !important;
   box-shadow: 0 0 14px -7px #f09819 !important;
   background-image: linear-gradient(45deg, #ff512f 0%, #f09819 51%, #ff512f 100%) !important;
   cursor: pointer !important;
