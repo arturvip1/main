@@ -103,7 +103,43 @@ html body [data-mj="widget-game-slider-slide"] {
   margin-left: 2px !important;
 }
 
-html body [data-mj="sidebar"].app-ltr-1huuf1k,
-html body [data-mj="sidebar"][class~="app-ltr-1huuf1k"] {
-  padding: 0 !important;
+html body .sl-select__control,
+html body [class~="sl-select__control"] {
+  background-color: rgb(255 255 255 / 6%) !important;
+  border-color: rgb(13 19 42) !important;
+}
+
+html body [data-mj="lobby-catalog-search"] {
+  background-color: rgb(255 255 255 / 6%) !important;
+  border-color: rgb(13 19 42) !important;
+}
+
+html body [data-mj="register-button"] {
+  margin: 10px !important;
+  padding: 15px 30px !important;
+  text-align: center !important;
+  text-transform: uppercase !important;
+  transition: 0.5s !important;
+  background-size: 200% auto !important;
+  color: white !important;
+  border-radius: 10px !important;
+  display: block !important;
+  border: 0 !important;
+  font-weight: 700 !important;
+  box-shadow: 0 0 14px -7px #f09819 !important;
+  background-image: linear-gradient(45deg, #ff512f 0%, #f09819 51%, #ff512f 100%) !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  -webkit-user-select: none !important;
+  touch-action: manipulation !important;
+}
+
+html body [data-mj="register-button"]:hover {
+  background-position: right center !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+html body [data-mj="register-button"]:active {
+  transform: scale(0.95) !important;
 }
