@@ -121,14 +121,15 @@ html body [data-mj="lobby-catalog-mobile-provider-input"] {
 }
 
 html body [data-mj="lobby-catalog-mobile-category-chip"].app-ltr-13u1vz6 {
-  background-image: linear-gradient(98.66deg, #232328, #121216) !important;
-  border: 1px solid rgb(255 255 255 / 6%) !important;
+  background-image: linear-gradient(122deg, #252d50, #1b2037) !important;
+  border: 1px solid rgb(14 19 41) !important;
   border-radius: 16px !important;
+  box-shadow: none !important;
 }
 
 html body [data-mj="lobby-catalog-mobile-category-chip"].app-ltr-7v4hfh {
   background-image: linear-gradient(98.66deg, #8424f8, #6126bc) !important;
-  box-shadow: 4px 4px 12px 0 rgba(255, 255, 255, 0.3) inset, 0 2px 12px 0 rgba(132, 36, 248, 1) !important;
+  box-shadow: 4px 4px 12px 0 rgba(255, 255, 255, 0.3) inset, 0 0 0 0 rgba(132, 36, 248, 1) !important;
   border: 1px solid rgb(255 255 255 / 6%) !important;
   border-radius: 16px !important;
   color: #fff !important;
