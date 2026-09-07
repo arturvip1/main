@@ -50,6 +50,7 @@ transform: translateY(-1px) !important;
 }
 [data-mj="header-nav-item"](hover,):hover * {
 color: #fff !important;
+text-shadow: 0 0 6px #ffde7973 !important;
 }
 [data-mj="header-nav-item"](hover,).active-link,
 [data-mj="header-nav-item"][aria-current="page"],
