@@ -43,14 +43,13 @@ transform 180ms ease !important;
 }
 [data-mj="header-nav-item"](hover,),
 [data-mj="header-nav-item"](hover,) * {
-color: #A6B5C2 !important;
+color: #cbd0e7 !important;
 }
 [data-mj="header-nav-item"](hover,):hover {
 transform: translateY(-1px) !important;
 }
 [data-mj="header-nav-item"](hover,):hover * {
 color: #fff !important;
-text-shadow: 0 0 6px #a27d00 !important;
 }
 [data-mj="header-nav-item"](hover,).active-link,
 [data-mj="header-nav-item"][aria-current="page"],
@@ -60,9 +59,9 @@ text-shadow: 0 0 6px #a27d00 !important;
 [data-mj="header-nav-item"][aria-current="page"] *,
 [data-mj="header-nav-item"](hover,) .active-link *,
 [data-mj="header-nav-item"](hover,) [aria-current="page"] * {
-color: #F9C71C !important;
+color: #F2C230 !important;
 font-weight: 300 !important;
-text-shadow: 0 0 6px #a27d00 !important;
+text-shadow: 0 0 6px #ffde7973 !important;
 }
 [data-mj="game-catalog-game-search"] {
 background-color: #22354380 !important;
@@ -116,4 +115,8 @@ max-width: 200px !important;
 }
 [data-mj="register-button"] {
 transition: opacity 150ms ease-out;
+}
+ul.app-ltr-17pv0q3[role="tablist"], ul.css-17pv0q3[role="tablist"] {
+display: flex !important;
+flex-direction: row !important;
 }
